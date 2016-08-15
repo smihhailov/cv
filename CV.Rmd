@@ -1,0 +1,150 @@
+---
+date: 15-Aug-2016
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+---
+
+Sergei Mihhailov
+============
+
+-----------------------------------------------
+                  
+Kohtla-Jarve                          
+Estonia                          
+smihhailov1@sheffield.ac.uk
+
+-----------------------------------------------
+
+Education
+---------
+
+
+### Tertial education
+
+2015-present
+:   **MSc, Statistics with Medical Applications**; School of Mathematics and Statistics & School of Health and Related Research, University of Sheffield (United Kingdom)
+
+* *Partial studentship by the employer*
+
+2014-2015
+:   **GradCert, Statistics**; School of Mathematics and Statistics, University of Sheffield (United Kingdom)
+
+* *Graduated with distinction*
+* *Full studentship by the employer*
+
+2009-2012
+:   **MSc, Clinical Research Administration**; School of Medicine, University of Liverpool (United Kingdom)
+
+* *Graduated with merit*
+* *University of Liverpool Studentship for students from the Baltic States*
+
+2002-2007
+:   **Diploma (MSc) in Biology**; Institute of Molecular and Cell Biology, University of Tartu (Estonia)
+
+* *Specialization in Biochemistry and Biophysics*
+* *Graduated with weighted average 4.51/5*
+* *Ministry of Education's Stipend for Academic Excellence*
+   
+### Secondary education
+1997-2000 
+:   **High School Graduate**; Jarve Vene Gumnaasium (Kohtla-Jarve, Estonia)
+
+* *Best High School Graduate Presedential Reception Attendee*
+* *Ministry of Education Bronze medal*
+* *High school graduate Golden Medal*
+* *International Biology Olympiad national team candidate*
+* *International Mathematics Olympiad national team candidate*
+* *$9^\underline{th}$ in national competition in chemistry* 
+* *$11^\underline{th}$ in national competition in physics* 
+
+
+Experience
+----------
+
+**Laboratory medicine**
+
+2012--Present
+: **Senior Quality Assurance Officer at Laboratory Service** of SA Ida Viru Keskhaigla (Kohtla-Järve, Estonia). Noteworthy achievements:
+
+* Organized several national events in laboratory medicine
+
+* Configured (what is believed to be) the most sophisticated middleware in Estonia
+
+* Wrote a data mining and analysis software 
+
+* Wrote an automatic data report system
+
+* Wrote a real-time laboratory dashboard
+
+* Played an active role in renovation process that is calculated to decrease spending by €1.1 mln  over 5 year period.
+
+2007--2012
+: **Biomedical scientist, consultant position** in biochemistry and immunology at SA Ida Viru Keskhaigla (Kohtla-Järve, Estonia). Reconfigured the whole analyzer park and decreased a number of field service engineer calls by 3/4 and saving over €25k annually. Facilitated the number of tests increased by 75%.
+
+**Clinical research**
+
+2010--present
+: **Site coordinator** for multiple sclerosis studies MS-LAQ-302, MS-GA-301, MS-LAQ-302/E, MS-GA-301/E Phase III clinical trials.
+
+2012
+: **Student investigator for MSc project** A study assessing the effect of altruistic motivation on participation in clinical trials.
+
+2011--2013
+: **Sub-investigator** for multiple sclerosis study GTR001 Phase III clinical trial.
+
+Technical Experience
+--------------------
+
+Some of the code written lately
+
+Clinical laboratory dashboard
+:   Provides an overview of laboratory currently open orders.
+
+    * automatically queries laboratory information system
+    * subgroups orders into STAT, 24/7 and routine orders
+    * aggregates orders according to specific workplace, status, material
+    * prioritizes materials according to remaining time
+    * uses color codes for priority
+    * provides additional information (laboratory announcements etc.)
+    * *uses SQL, R, Rmarkdown, JavaScript, HTML, cmd, css to run*
+
+Automatic daily reports
+:   Taylored system for monitoring laboratory parameters.
+
+    * turn-arond time discreptancies
+    * results to be further reported to authorities (infectious diseases etc.)
+    * logon errors
+    * results missing from subsidiary laboratories
+    * overview of critical results reporting
+    * workload by hour in different workplaces
+    * sample load from different orderers/wards
+    *  *uses SQL, R, Rmarkdown, JavaScript, HTML, cmd, $\LaTeX$ to run*
+    
+Calculators for laboratory medicine
+:   Taylored system for monitoring laboratory parameters.
+
+    * some simple tools for physicians
+    * *use R, Rmarkdown, $\LaTeX$, JavaScript, Shiny to run*
+
+
+GitHub account to be populated soon:
+[ref]: https://github.com/smihhailov/
+
+Additional info
+----------------------------------------
+
+* Human Languages:
+     * Russian (native speaker)
+     * Estonian (fluent, C1)
+     * English (fluent, C1).
+     
+
+* Driver's licence (B category) since 2008
+
+
+* Professional membership
+     * Royal Statistical Society
+     * Estonian Society for Laboratory Medicine
+     * Estonian Healthcare Professionals Union.
